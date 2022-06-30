@@ -2,7 +2,7 @@
 
 <p>Library is a app where you can keep track of your favorite books, you can also view other people books but you can only edit yours..</p>
 <p>This project allows the user to store books, it is a Full CRUD app.</p>
-<p>It also has LOGIN and REGISTRATION and keeps the user in session.</p>
+<p>It also has LOGIN and REGISTRATION, keeps the user in session and can handle validations as well.</p>
 <p>You can create, save, edit and delete Books.</p>
 
 ## Demo
